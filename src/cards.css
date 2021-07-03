@@ -61,7 +61,7 @@ body {
     border-radius: 4px;
     overflow: hidden;
     display: flex;
-    width: 710px;
+    max-width: 710px;
 }
 
 .cardGroup__card {
