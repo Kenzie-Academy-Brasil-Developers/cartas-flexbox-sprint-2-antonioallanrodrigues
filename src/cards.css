@@ -73,3 +73,14 @@ html {
     /* flex-grow, flex-shrink, flex-basis */
     flex-basis: 100%;
 }
+
+@media (max-width: 414px) {
+    .cardGroup {
+        /* display */
+        border: 1px solid #CAD0D2;
+        border-radius: 4px;
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+    }
+}
