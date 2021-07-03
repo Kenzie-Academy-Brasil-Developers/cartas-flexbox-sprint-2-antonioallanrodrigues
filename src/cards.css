@@ -74,7 +74,7 @@ html {
     flex-basis: 100%;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 320px) {
     .cardGroup {
         /* display */
         border: 1px solid #CAD0D2;
